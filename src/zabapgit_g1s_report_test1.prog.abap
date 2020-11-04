@@ -23,3 +23,5 @@
 
 REPORT  ZABAPGIT_G1S_REPORT_TEST1.
 Write: 'Code from G1S system Test1'.
+
+Write: 'Code from GSS system Test1'.
